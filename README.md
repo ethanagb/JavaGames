@@ -7,9 +7,8 @@
 To play a game, compile that game's `.java` file. 
 For example, to play Boggle:
 
-```javac Boggle.java
+'''javac Boggle.java
 java Boggle
-//You're now playing Boggle.
-```
+'''
 
 These will require the latest version of Java to compile correctly. 
