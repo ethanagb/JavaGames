@@ -1,8 +1,8 @@
 ## Java Games
 3 Simple Games Written in Java:
-+Blackjack
-+Mastermind
-+Boggle
++ Blackjack
++ Mastermind
++ Boggle
 
 To play a game, compile that game's `.java` file. 
 For example, to play Boggle:
